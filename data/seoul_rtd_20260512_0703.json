@@ -1,0 +1,1091 @@
+[
+  {
+    "poi_code": "POI001",
+    "collected_at": "2026-05-12 06:30:51",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI002",
+    "collected_at": "2026-05-12 06:31:07",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI003",
+    "collected_at": "2026-05-12 06:31:24",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI004",
+    "collected_at": "2026-05-12 06:31:40",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI005",
+    "collected_at": "2026-05-12 06:31:56",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI006",
+    "collected_at": "2026-05-12 06:32:12",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI007",
+    "collected_at": "2026-05-12 06:32:28",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI008",
+    "collected_at": "2026-05-12 06:32:44",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI009",
+    "collected_at": "2026-05-12 06:33:01",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI010",
+    "collected_at": "2026-05-12 06:33:17",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI011",
+    "collected_at": "2026-05-12 06:33:32",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI012",
+    "collected_at": "2026-05-12 06:33:48",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI013",
+    "collected_at": "2026-05-12 06:34:04",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI014",
+    "collected_at": "2026-05-12 06:34:20",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI015",
+    "collected_at": "2026-05-12 06:34:36",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI016",
+    "collected_at": "2026-05-12 06:34:53",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI017",
+    "collected_at": "2026-05-12 06:35:09",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI018",
+    "collected_at": "2026-05-12 06:35:25",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI019",
+    "collected_at": "2026-05-12 06:35:41",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI020",
+    "collected_at": "2026-05-12 06:35:57",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI021",
+    "collected_at": "2026-05-12 06:36:13",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI022",
+    "collected_at": "2026-05-12 06:36:29",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI023",
+    "collected_at": "2026-05-12 06:36:45",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI024",
+    "collected_at": "2026-05-12 06:37:01",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI025",
+    "collected_at": "2026-05-12 06:37:17",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI026",
+    "collected_at": "2026-05-12 06:37:32",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI027",
+    "collected_at": "2026-05-12 06:37:48",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI028",
+    "collected_at": "2026-05-12 06:38:04",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI029",
+    "collected_at": "2026-05-12 06:38:20",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI030",
+    "collected_at": "2026-05-12 06:38:37",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI031",
+    "collected_at": "2026-05-12 06:38:53",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI032",
+    "collected_at": "2026-05-12 06:39:09",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI033",
+    "collected_at": "2026-05-12 06:39:24",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI034",
+    "collected_at": "2026-05-12 06:39:41",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI035",
+    "collected_at": "2026-05-12 06:39:57",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI036",
+    "collected_at": "2026-05-12 06:40:12",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI037",
+    "collected_at": "2026-05-12 06:40:29",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI038",
+    "collected_at": "2026-05-12 06:40:45",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI039",
+    "collected_at": "2026-05-12 06:41:01",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI040",
+    "collected_at": "2026-05-12 06:41:17",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI041",
+    "collected_at": "2026-05-12 06:41:33",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI042",
+    "collected_at": "2026-05-12 06:41:49",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI043",
+    "collected_at": "2026-05-12 06:42:04",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI044",
+    "collected_at": "2026-05-12 06:42:20",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI045",
+    "collected_at": "2026-05-12 06:42:36",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI046",
+    "collected_at": "2026-05-12 06:42:52",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI047",
+    "collected_at": "2026-05-12 06:43:08",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI048",
+    "collected_at": "2026-05-12 06:43:24",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI049",
+    "collected_at": "2026-05-12 06:43:40",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI050",
+    "collected_at": "2026-05-12 06:43:56",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI051",
+    "collected_at": "2026-05-12 06:44:12",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI052",
+    "collected_at": "2026-05-12 06:44:28",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI053",
+    "collected_at": "2026-05-12 06:44:44",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI054",
+    "collected_at": "2026-05-12 06:45:00",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI055",
+    "collected_at": "2026-05-12 06:45:17",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI056",
+    "collected_at": "2026-05-12 06:45:32",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI057",
+    "collected_at": "2026-05-12 06:45:48",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI058",
+    "collected_at": "2026-05-12 06:46:04",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI059",
+    "collected_at": "2026-05-12 06:46:20",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI060",
+    "collected_at": "2026-05-12 06:46:36",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI061",
+    "collected_at": "2026-05-12 06:46:52",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI062",
+    "collected_at": "2026-05-12 06:47:08",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI063",
+    "collected_at": "2026-05-12 06:47:24",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI064",
+    "collected_at": "2026-05-12 06:47:40",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI065",
+    "collected_at": "2026-05-12 06:47:56",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI066",
+    "collected_at": "2026-05-12 06:48:12",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI067",
+    "collected_at": "2026-05-12 06:48:28",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI068",
+    "collected_at": "2026-05-12 06:48:44",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI069",
+    "collected_at": "2026-05-12 06:49:01",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI070",
+    "collected_at": "2026-05-12 06:49:17",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI071",
+    "collected_at": "2026-05-12 06:49:33",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI072",
+    "collected_at": "2026-05-12 06:49:48",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI073",
+    "collected_at": "2026-05-12 06:50:04",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI074",
+    "collected_at": "2026-05-12 06:50:20",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI075",
+    "collected_at": "2026-05-12 06:50:36",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI076",
+    "collected_at": "2026-05-12 06:50:52",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI077",
+    "collected_at": "2026-05-12 06:51:08",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI078",
+    "collected_at": "2026-05-12 06:51:24",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI079",
+    "collected_at": "2026-05-12 06:51:41",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI080",
+    "collected_at": "2026-05-12 06:51:57",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI081",
+    "collected_at": "2026-05-12 06:52:12",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI082",
+    "collected_at": "2026-05-12 06:52:28",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI083",
+    "collected_at": "2026-05-12 06:52:45",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI084",
+    "collected_at": "2026-05-12 06:53:01",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI085",
+    "collected_at": "2026-05-12 06:53:17",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI086",
+    "collected_at": "2026-05-12 06:53:32",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI087",
+    "collected_at": "2026-05-12 06:53:48",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI088",
+    "collected_at": "2026-05-12 06:54:04",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI089",
+    "collected_at": "2026-05-12 06:54:19",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI090",
+    "collected_at": "2026-05-12 06:54:36",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI091",
+    "collected_at": "2026-05-12 06:54:51",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI092",
+    "collected_at": "2026-05-12 06:55:07",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI093",
+    "collected_at": "2026-05-12 06:55:23",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI094",
+    "collected_at": "2026-05-12 06:55:39",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI095",
+    "collected_at": "2026-05-12 06:55:55",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI096",
+    "collected_at": "2026-05-12 06:56:11",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI097",
+    "collected_at": "2026-05-12 06:56:27",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI098",
+    "collected_at": "2026-05-12 06:56:43",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI099",
+    "collected_at": "2026-05-12 06:57:00",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI100",
+    "collected_at": "2026-05-12 06:57:16",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI101",
+    "collected_at": "2026-05-12 06:57:32",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI102",
+    "collected_at": "2026-05-12 06:57:49",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI103",
+    "collected_at": "2026-05-12 06:58:04",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI104",
+    "collected_at": "2026-05-12 06:58:20",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI105",
+    "collected_at": "2026-05-12 06:58:36",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI106",
+    "collected_at": "2026-05-12 06:58:52",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI107",
+    "collected_at": "2026-05-12 06:59:08",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI108",
+    "collected_at": "2026-05-12 06:59:24",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI109",
+    "collected_at": "2026-05-12 06:59:40",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI110",
+    "collected_at": "2026-05-12 06:59:56",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI111",
+    "collected_at": "2026-05-12 07:00:12",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI112",
+    "collected_at": "2026-05-12 07:00:28",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI113",
+    "collected_at": "2026-05-12 07:00:44",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI114",
+    "collected_at": "2026-05-12 07:01:01",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI115",
+    "collected_at": "2026-05-12 07:01:17",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI116",
+    "collected_at": "2026-05-12 07:01:33",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI117",
+    "collected_at": "2026-05-12 07:01:49",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI118",
+    "collected_at": "2026-05-12 07:02:05",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI119",
+    "collected_at": "2026-05-12 07:02:21",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI120",
+    "collected_at": "2026-05-12 07:02:36",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI121",
+    "collected_at": "2026-05-12 07:02:52",
+    "status": "error",
+    "error": "HTTPConnectionPool(host='openapi.seoul.go.kr', port=8088): Read timed out. (read timeout=15)",
+    "data": {
+      "CITYDATA": null
+    }
+  }
+]
