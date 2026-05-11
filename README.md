@@ -1,7 +1,6 @@
 # Seoul RTD Collector
 
 서울 실시간 도시데이터(Seoul Real-Time Data)를 자동으로 수집하여 저장하는 파이프라인입니다.
-EV 충전소 최적 입지 연구를 위한 데이터 수집 목적으로 구축되었습니다.
 
 ---
 
