@@ -1,8 +1,6 @@
 name: Seoul RTD Collector
 
 on:
-  schedule:
-    - cron: '*/15 * * * *'  # 15분마다 수집
   workflow_dispatch:         # 수동 실행 허용
 
 jobs:
