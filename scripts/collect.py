@@ -1,7 +1,7 @@
-import requests
+import asyncio
+import aiohttp
 import xml.etree.ElementTree as ET
 import json
-import time
 import os
 from datetime import datetime, timezone, timedelta
 
@@ -35,56 +35,62 @@ def xml_to_dict(element):
     return result if result else None
 
 
-def collect_poi(poi_code, max_retry=3):
+async def collect_poi_async(session, poi_code, max_retry=3):
     url = f"http://openapi.seoul.go.kr:8088/{API_KEY}/xml/citydata/1/5/{poi_code}"
     collected_at = datetime.now(KST).strftime("%Y-%m-%d %H:%M:%S")
+    last_error = "알 수 없는 오류"
 
     for attempt in range(1, max_retry + 1):
         try:
-            res = requests.get(url, timeout=30)  # 15→30초로 늘림
-            root = ET.fromstring(res.content)
-            data = xml_to_dict(root)
+            async with session.get(url, timeout=aiohttp.ClientTimeout(total=60)) as res:
+                content = await res.read()
+                root = ET.fromstring(content)
+                data = xml_to_dict(root)
 
-            if not data or "CITYDATA" not in data:
-                raise ValueError("CITYDATA 없음")
+                if not data or "CITYDATA" not in data:
+                    raise ValueError("CITYDATA 없음")
 
-            return {
-                "poi_code":     poi_code,
-                "collected_at": collected_at,
-                "status":       "ok",
-                "data":         data
-            }
+                return {
+                    "poi_code":     poi_code,
+                    "collected_at": collected_at,
+                    "status":       "ok",
+                    "data":         data
+                }
 
         except Exception as e:
+            last_error = str(e)
             print(f"  ⚠️  {poi_code} 시도 {attempt}/{max_retry} 실패: {e}")
             if attempt < max_retry:
-                time.sleep(3)  # 3초 후 재시도
+                await asyncio.sleep(3)
 
     return {
         "poi_code":     poi_code,
         "collected_at": collected_at,
         "status":       "error",
-        "error":        str(e),
+        "error":        last_error,
         "data":         {"CITYDATA": None}
     }
 
 
+async def collect_all():
+    async with aiohttp.ClientSession() as session:
+        tasks = [collect_poi_async(session, poi) for poi in POI_CODES]
+        results = await asyncio.gather(*tasks)
+
+    for i, result in enumerate(results, 1):
+        status = "✅" if result["status"] == "ok" else "❌"
+        area_nm = ""
+        try:
+            area_nm = result["data"]["CITYDATA"]["AREA_NM"]
+        except:
+            pass
+        print(f"[{i:3d}/121] {status} {result['poi_code']}  {area_nm}")
+
+    return list(results)
+
+
 # ── 전체 수집 ──────────────────────────────────────────
-results = []
-
-for i, poi in enumerate(POI_CODES, 1):
-    result = collect_poi(poi)
-    results.append(result)
-
-    status = "✅" if result["status"] == "ok" else "❌"
-    area_nm = ""
-    try:
-        area_nm = result["data"]["CITYDATA"]["AREA_NM"]
-    except:
-        pass
-    print(f"[{i:3d}/121] {status} {poi}  {area_nm}")
-
-    time.sleep(0.3)
+results = asyncio.run(collect_all())
 
 print(f"\n완료: {sum(1 for r in results if r['status'] == 'ok')}개 성공")
 
