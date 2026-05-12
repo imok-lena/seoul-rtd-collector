@@ -48,7 +48,7 @@
 ```
 서울 실시간 도시데이터 API (5분 갱신)
         ↓
-GitHub Actions (15분마다 자동 실행)
+GitHub Actions (30분마다 자동 실행)
         ↓
 data/seoul_rtd_YYYYMMDD_HHMM.json
 ```
@@ -77,7 +77,7 @@ data/seoul_rtd_YYYYMMDD_HHMM.json
 [
   {
     "poi_code": "POI001",
-    "collected_at": "2026-05-11 15:00:00",
+    "collected_at": "2026-05-11 30:00:00",
     "status": "ok",
     "data": {
       "CITYDATA": {
@@ -100,7 +100,7 @@ data/seoul_rtd_YYYYMMDD_HHMM.json
 ## 실행 방법
 
 ### 자동 실행
-GitHub Actions가 15분마다 자동으로 실행합니다.
+GitHub Actions가 30분마다 자동으로 실행합니다.
 Actions 탭 → Seoul RTD Collector → Run workflow로 수동 실행도 가능합니다.
 
 ### 로컬 실행
