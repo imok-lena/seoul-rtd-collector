@@ -48,7 +48,14 @@ async def collect_poi_async(session, poi_code, max_retry=3):
                 data = xml_to_dict(root)
 
                 if not data or "CITYDATA" not in data:
-                    raise ValueError("CITYDATA 없음")
+                    # CITYDATA 없으면 재시도 없이 바로 에러 반환
+                    return {
+                        "poi_code":     poi_code,
+                        "collected_at": collected_at,
+                        "status":       "error",
+                        "error":        "CITYDATA 없음",
+                        "data":         {"CITYDATA": None}
+                    }
 
                 return {
                     "poi_code":     poi_code,
