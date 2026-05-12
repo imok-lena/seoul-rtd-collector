@@ -102,8 +102,11 @@ results = asyncio.run(collect_all())
 print(f"\n완료: {sum(1 for r in results if r['status'] == 'ok')}개 성공")
 
 # ── JSON 저장 ──────────────────────────────────────────
+today = datetime.now(KST).strftime("%Y%m%d")
 timestamp = datetime.now(KST).strftime("%Y%m%d_%H%M")
-filename = f"data/seoul_rtd_{timestamp}.json"
+filename = f"data/{today}/seoul_rtd_{timestamp}.json"
+
+os.makedirs(f"data/{today}", exist_ok=True)
 
 with open(filename, "w", encoding="utf-8") as f:
     json.dump(results, f, ensure_ascii=False, indent=2)
