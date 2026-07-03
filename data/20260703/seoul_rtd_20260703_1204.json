@@ -1,0 +1,2009 @@
+[
+  {
+    "poi_code": "POI001",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI002",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI003",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI004",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI005",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI006",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI007",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI008",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI009",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI010",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI011",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI012",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI013",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI014",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI015",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI016",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI017",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI018",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI019",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI020",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI021",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI022",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI023",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI024",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI025",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI026",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI027",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI028",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI029",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI030",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI031",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI032",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI033",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI034",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI035",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI036",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI037",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI038",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI039",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI040",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI041",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI042",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI043",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI044",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI045",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI046",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI047",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI048",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI049",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI050",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI051",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI052",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI053",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI054",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI055",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI056",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI057",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI058",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI059",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI060",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI061",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI062",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI063",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI064",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI065",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI066",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI067",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI068",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI069",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI070",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI071",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI072",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI073",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI074",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI075",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI076",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "ok",
+    "data": {
+      "list_total_count": "1",
+      "RESULT": {
+        "RESULT.CODE": "INFO-000",
+        "RESULT.MESSAGE": "정상 처리되었습니다."
+      },
+      "CITYDATA": {
+        "AREA_NM": "용리단길",
+        "AREA_CD": "POI076",
+        "LIVE_PPLTN_STTS": {
+          "LIVE_PPLTN_STTS": {
+            "AREA_NM": "용리단길",
+            "AREA_CD": "POI076",
+            "AREA_CONGEST_LVL": "보통",
+            "AREA_CONGEST_MSG": "사람이 몰려있을 수 있지만 크게 붐비지는 않아요. 도보 이동에 큰 제약이 없어요.",
+            "AREA_PPLTN_MIN": "5500",
+            "AREA_PPLTN_MAX": "6000",
+            "MALE_PPLTN_RATE": "53.7",
+            "FEMALE_PPLTN_RATE": "46.3",
+            "PPLTN_RATE_0": "1.8",
+            "PPLTN_RATE_10": "3.2",
+            "PPLTN_RATE_20": "15.6",
+            "PPLTN_RATE_30": "22.6",
+            "PPLTN_RATE_40": "23.5",
+            "PPLTN_RATE_50": "17.2",
+            "PPLTN_RATE_60": "9.5",
+            "PPLTN_RATE_70": "6.6",
+            "RESNT_PPLTN_RATE": "67.3",
+            "NON_RESNT_PPLTN_RATE": "32.7",
+            "REPLACE_YN": "N",
+            "PPLTN_TIME": "2026-07-03 11:35",
+            "FCST_YN": "Y",
+            "FCST_PPLTN": {
+              "FCST_PPLTN": [
+                {
+                  "FCST_TIME": "2026-07-03 13:00",
+                  "FCST_CONGEST_LVL": "약간 붐빔",
+                  "FCST_PPLTN_MIN": "6000",
+                  "FCST_PPLTN_MAX": "6500"
+                },
+                {
+                  "FCST_TIME": "2026-07-03 14:00",
+                  "FCST_CONGEST_LVL": "붐빔",
+                  "FCST_PPLTN_MIN": "6000",
+                  "FCST_PPLTN_MAX": "6500"
+                },
+                {
+                  "FCST_TIME": "2026-07-03 15:00",
+                  "FCST_CONGEST_LVL": "붐빔",
+                  "FCST_PPLTN_MIN": "6500",
+                  "FCST_PPLTN_MAX": "7000"
+                },
+                {
+                  "FCST_TIME": "2026-07-03 16:00",
+                  "FCST_CONGEST_LVL": "붐빔",
+                  "FCST_PPLTN_MIN": "6000",
+                  "FCST_PPLTN_MAX": "6500"
+                },
+                {
+                  "FCST_TIME": "2026-07-03 17:00",
+                  "FCST_CONGEST_LVL": "약간 붐빔",
+                  "FCST_PPLTN_MIN": "6000",
+                  "FCST_PPLTN_MAX": "6500"
+                },
+                {
+                  "FCST_TIME": "2026-07-03 18:00",
+                  "FCST_CONGEST_LVL": "약간 붐빔",
+                  "FCST_PPLTN_MIN": "6000",
+                  "FCST_PPLTN_MAX": "6500"
+                },
+                {
+                  "FCST_TIME": "2026-07-03 19:00",
+                  "FCST_CONGEST_LVL": "약간 붐빔",
+                  "FCST_PPLTN_MIN": "5500",
+                  "FCST_PPLTN_MAX": "6000"
+                },
+                {
+                  "FCST_TIME": "2026-07-03 20:00",
+                  "FCST_CONGEST_LVL": "보통",
+                  "FCST_PPLTN_MIN": "5000",
+                  "FCST_PPLTN_MAX": "5500"
+                },
+                {
+                  "FCST_TIME": "2026-07-03 21:00",
+                  "FCST_CONGEST_LVL": "보통",
+                  "FCST_PPLTN_MIN": "5000",
+                  "FCST_PPLTN_MAX": "5500"
+                },
+                {
+                  "FCST_TIME": "2026-07-03 22:00",
+                  "FCST_CONGEST_LVL": "보통",
+                  "FCST_PPLTN_MIN": "4500",
+                  "FCST_PPLTN_MAX": "5000"
+                },
+                {
+                  "FCST_TIME": "2026-07-03 23:00",
+                  "FCST_CONGEST_LVL": "여유",
+                  "FCST_PPLTN_MIN": "4000",
+                  "FCST_PPLTN_MAX": "4500"
+                },
+                {
+                  "FCST_TIME": "2026-07-04 00:00",
+                  "FCST_CONGEST_LVL": "여유",
+                  "FCST_PPLTN_MIN": "3000",
+                  "FCST_PPLTN_MAX": "3500"
+                }
+              ]
+            }
+          }
+        },
+        "ROAD_TRAFFIC_STTS": {
+          "AVG_ROAD_DATA": {
+            "ROAD_MSG": "해당 장소로 이동·진입시 시간이 다소 소요될 수 있어요.",
+            "ROAD_TRAFFIC_IDX": "서행",
+            "ROAD_TRAFFIC_SPD": "21",
+            "ROAD_TRAFFIC_TIME": "2026-07-03 12:00"
+          },
+          "ROAD_TRAFFIC_STTS": [
+            {
+              "LINK_ID": "1020007302",
+              "ROAD_NM": "한강대로",
+              "START_ND_CD": "1020015204",
+              "START_ND_NM": "용산역",
+              "START_ND_XY": "126.9667170087153636_37.5280456524693449",
+              "END_ND_CD": "1020016803",
+              "END_ND_NM": "전자상가입구교차로",
+              "END_ND_XY": "126.9681558223356888_37.5295644873819896",
+              "DIST": "211.0",
+              "SPD": "24.3",
+              "IDX": "서행",
+              "XYLIST": "126.9681558223356888_37.5295644873819896|126.9672342806026819_37.5285917021841300|126.9667170087153636_37.5280456524693449"
+            },
+            {
+              "LINK_ID": "1020007402",
+              "ROAD_NM": "한강대로",
+              "START_ND_CD": "1020051500",
+              "START_ND_NM": "한강로2가 188-1",
+              "START_ND_XY": "126.9673426559004668_37.5285265849111056",
+              "END_ND_CD": "1020015201",
+              "END_ND_NM": "속성변화점",
+              "END_ND_XY": "126.9668253836721163_37.5279805356647955",
+              "DIST": "76.0",
+              "SPD": "32.0",
+              "IDX": "원활",
+              "XYLIST": "126.9668253836721163_37.5279805356647955|126.9673426559004668_37.5285265849111056"
+            },
+            {
+              "LINK_ID": "1020008306",
+              "ROAD_NM": "새창로",
+              "START_ND_CD": "1020016803",
+              "START_ND_NM": "전자상가입구교차로",
+              "START_ND_XY": "126.9681558223356888_37.5295644873819896",
+              "END_ND_CD": "1020017802",
+              "END_ND_NM": "신용산지하차도(동측)",
+              "END_ND_XY": "126.9673959720882692_37.5300726947153009",
+              "DIST": "88.0",
+              "SPD": "6.0",
+              "IDX": "정체",
+              "XYLIST": "126.9673959720882692_37.5300726947153009|126.9677699989137238_37.5298289272809029|126.9679910930038602_37.5296848305883302|126.9679948818404398_37.5296820626562777|126.9681558223356888_37.5295644873819896"
+            },
+            {
+              "LINK_ID": "1020008406",
+              "ROAD_NM": "새창로",
+              "START_ND_CD": "1020126900",
+              "START_ND_NM": "한강로2가 422-1",
+              "START_ND_XY": "126.9678559795664512_37.5299126000648968",
+              "END_ND_CD": "1020016804",
+              "END_ND_NM": "전자상가입구교차로",
+              "END_ND_XY": "126.9682403944276103_37.5296494232954956",
+              "DIST": "45.0",
+              "SPD": "10.0",
+              "IDX": "정체",
+              "XYLIST": "126.9682403944276103_37.5296494232954956|126.9680866539261928_37.5297617379752211|126.9680800395232581_37.5297665700961005|126.9678559795664512_37.5299126000648968"
+            },
+            {
+              "LINK_ID": "1020009302",
+              "ROAD_NM": "한강대로",
+              "START_ND_CD": "1020025100",
+              "START_ND_NM": "삼각지역7번출구",
+              "START_ND_XY": "126.9734329393310475_37.5350708801419586",
+              "END_ND_CD": "1020025603",
+              "END_ND_NM": "삼각지역교차로",
+              "END_ND_XY": "126.9739472931050841_37.5356089153529453",
+              "DIST": "75.0",
+              "SPD": "40.0",
+              "IDX": "원활",
+              "XYLIST": "126.9739472931050841_37.5356089153529453|126.9738394312628174_37.5354850527930566|126.9734329393310475_37.5350708801419586"
+            },
+            {
+              "LINK_ID": "1020009402",
+              "ROAD_NM": "한강대로",
+              "START_ND_CD": "1020025602",
+              "START_ND_NM": "삼각지역교차로",
+              "START_ND_XY": "126.9740601326000160_37.5355487598275559",
+              "END_ND_CD": "1020024700",
+              "END_ND_NM": "삼각지역7번출구",
+              "END_ND_XY": "126.9735399131187421_37.5350043003819138",
+              "DIST": "76.0",
+              "SPD": "8.0",
+              "IDX": "정체",
+              "XYLIST": "126.9735399131187421_37.5350043003819138|126.9739487928858210_37.5354209040961138|126.9740601326000160_37.5355487598275559"
+            },
+            {
+              "LINK_ID": "1020011301",
+              "ROAD_NM": "이태원로",
+              "START_ND_CD": "1020024900",
+              "START_ND_NM": "삼각지역13번출구",
+              "START_ND_XY": "126.9749769084332343_37.5349767961125238",
+              "END_ND_CD": "1020025602",
+              "END_ND_NM": "삼각지역교차로",
+              "END_ND_XY": "126.9740601326000160_37.5355487598275559",
+              "DIST": "103.0",
+              "SPD": "28.0",
+              "IDX": "원활",
+              "XYLIST": "126.9740601326000160_37.5355487598275559|126.9743097291953688_37.5353822428393471|126.9749769084332343_37.5349767961125238"
+            },
+            {
+              "LINK_ID": "1020011401",
+              "ROAD_NM": "이태원로",
+              "START_ND_CD": "1020025601",
+              "START_ND_NM": "삼각지역교차로",
+              "START_ND_XY": "126.9741286309340893_37.5356441095230551",
+              "END_ND_CD": "1020025200",
+              "END_ND_NM": "삼각지역(서울6호선)",
+              "END_ND_XY": "126.9750592746409410_37.5350627473837051",
+              "DIST": "105.0",
+              "SPD": "13.0",
+              "IDX": "정체",
+              "XYLIST": "126.9750592746409410_37.5350627473837051|126.9743945507994880_37.5354667021441912|126.9741286309340893_37.5356441095230551"
+            },
+            {
+              "LINK_ID": "1020012502",
+              "ROAD_NM": "백범로",
+              "START_ND_CD": "1020025603",
+              "START_ND_NM": "삼각지역교차로",
+              "START_ND_XY": "126.9739472931050841_37.5356089153529453",
+              "END_ND_CD": "1020025800",
+              "END_ND_NM": "삼각지역8번출구",
+              "END_ND_XY": "126.9732142110164972_37.5358680244183063",
+              "DIST": "71.0",
+              "SPD": "10.0",
+              "IDX": "정체",
+              "XYLIST": "126.9732142110164972_37.5358680244183063|126.9737037621432734_37.5357113531253859|126.9739472931050841_37.5356089153529453"
+            },
+            {
+              "LINK_ID": "1020012602",
+              "ROAD_NM": "백범로",
+              "START_ND_CD": "1020025900",
+              "START_ND_NM": "삼각지역9번출구",
+              "START_ND_XY": "126.9732648398461947_37.5359683460905913",
+              "END_ND_CD": "1020025604",
+              "END_ND_NM": "삼각지역교차로",
+              "END_ND_XY": "126.9740127329014001_37.5357036653550509",
+              "DIST": "72.0",
+              "SPD": "25.0",
+              "IDX": "원활",
+              "XYLIST": "126.9740127329014001_37.5357036653550509|126.9737609376188203_37.5358095794168420|126.9732648398461947_37.5359683460905913"
+            },
+            {
+              "LINK_ID": "1020014101",
+              "ROAD_NM": "한강대로",
+              "START_ND_CD": "1020025604",
+              "START_ND_NM": "삼각지역교차로",
+              "START_ND_XY": "126.9740127329014001_37.5357036653550509",
+              "END_ND_CD": "1020026300",
+              "END_ND_NM": "삼각지역10번출구",
+              "END_ND_XY": "126.9741534931197577_37.5365074530867560",
+              "DIST": "92.0",
+              "SPD": "19.0",
+              "IDX": "서행",
+              "XYLIST": "126.9741534931197577_37.5365074530867560|126.9741631206036629_37.5364549845269977|126.9741847918449622_37.5362725862118936|126.9741503498416080_37.5360423405955430|126.9740854223847748_37.5358421943092253|126.9740127329014001_37.5357036653550509"
+            },
+            {
+              "LINK_ID": "1020014201",
+              "ROAD_NM": "한강대로",
+              "START_ND_CD": "1020026100",
+              "START_ND_NM": "삼각지역10번출구",
+              "START_ND_XY": "126.9742878403268662_37.5365230850403009",
+              "END_ND_CD": "1020025601",
+              "END_ND_NM": "삼각지역교차로",
+              "END_ND_XY": "126.9741286309340893_37.5356441095230551",
+              "DIST": "100.0",
+              "SPD": "40.0",
+              "IDX": "원활",
+              "XYLIST": "126.9741286309340893_37.5356441095230551|126.9742144475380172_37.5358076529602371|126.9742840895532794_37.5360223351451125|126.9743213281359431_37.5362712689839313|126.9742979653557313_37.5364679009623998|126.9742878403268662_37.5365230850403009"
+            },
+            {
+              "LINK_ID": "1020041600",
+              "ROAD_NM": "이태원로",
+              "START_ND_CD": "1020024900",
+              "START_ND_NM": "삼각지역13번출구",
+              "START_ND_XY": "126.9749769084332343_37.5349767961125238",
+              "END_ND_CD": "1020024700",
+              "END_ND_NM": "삼각지역7번출구",
+              "END_ND_XY": "126.9735399131187421_37.5350043003819138",
+              "DIST": "133.0",
+              "SPD": "16.0",
+              "IDX": "서행",
+              "XYLIST": "126.9735399131187421_37.5350043003819138|126.9737871420369544_37.5350683590055922|126.9740745093847494_37.5351141932787655|126.9743259590357241_37.5351428549854020|126.9744936004149025_37.5351390773759803|126.9746804090904675_37.5351124173200219|126.9749769084332343_37.5349767961125238"
+            },
+            {
+              "LINK_ID": "1020042000",
+              "ROAD_NM": "한강대로",
+              "START_ND_CD": "1020025100",
+              "START_ND_NM": "삼각지역7번출구",
+              "START_ND_XY": "126.9734329393310475_37.5350708801419586",
+              "END_ND_CD": "1020025800",
+              "END_ND_NM": "삼각지역8번출구",
+              "END_ND_XY": "126.9732142110164972_37.5358680244183063",
+              "DIST": "99.0",
+              "SPD": "19.0",
+              "IDX": "서행",
+              "XYLIST": "126.9732142110164972_37.5358680244183063|126.9733594327573485_37.5358059269681803|126.9734228796811522_37.5357567484317087|126.9734612351895180_37.5356518652658693|126.9734828450604738_37.5354935787201356|126.9734805099240447_37.5353238449836439|126.9734329393310475_37.5350708801419586"
+            },
+            {
+              "LINK_ID": "1020042700",
+              "ROAD_NM": "한강대로",
+              "START_ND_CD": "1020026100",
+              "START_ND_NM": "삼각지역10번출구",
+              "START_ND_XY": "126.9742878403268662_37.5365230850403009",
+              "END_ND_CD": "1020025200",
+              "END_ND_NM": "삼각지역(서울6호선)",
+              "END_ND_XY": "126.9750592746409410_37.5350627473837051",
+              "DIST": "177.0",
+              "SPD": "27.7",
+              "IDX": "원활",
+              "XYLIST": "126.9750592746409410_37.5350627473837051|126.9748767335852051_37.5352726571772237|126.9747904745872802_37.5354004160112282|126.9747233793208210_37.5355186435926313|126.9746634608651732_37.5356559432532677|126.9746035202002048_37.5358580851873924|126.9744788894439296_37.5361422194916159|126.9743662656054255_37.5363310006673174|126.9742878403268662_37.5365230850403009"
+            },
+            {
+              "LINK_ID": "1020043000",
+              "ROAD_NM": "백범로",
+              "START_ND_CD": "1020025900",
+              "START_ND_NM": "삼각지역9번출구",
+              "START_ND_XY": "126.9732648398461947_37.5359683460905913",
+              "END_ND_CD": "1020026300",
+              "END_ND_NM": "삼각지역10번출구",
+              "END_ND_XY": "126.9741534931197577_37.5365074530867560",
+              "DIST": "106.0",
+              "SPD": "22.0",
+              "IDX": "서행",
+              "XYLIST": "126.9741534931197577_37.5365074530867560|126.9740836590516437_37.5363538243993915|126.9739256446785731_37.5362145697140122|126.9738011461972036_37.5361115577945768|126.9736574773157685_37.5360428695899984|126.9734563275352457_37.5359856101105933|126.9732648398461947_37.5359683460905913"
+            },
+            {
+              "LINK_ID": "1020043101",
+              "ROAD_NM": "백범로",
+              "START_ND_CD": "1020025800",
+              "START_ND_NM": "삼각지역8번출구",
+              "START_ND_XY": "126.9732142110164972_37.5358680244183063",
+              "END_ND_CD": "1020037902",
+              "END_ND_NM": "삼각지고가차도(동측)",
+              "END_ND_XY": "126.9728791096191856_37.5359752795594801",
+              "DIST": "32.0",
+              "SPD": "10.0",
+              "IDX": "정체",
+              "XYLIST": "126.9728791096191856_37.5359752795594801|126.9732142110164972_37.5358680244183063"
+            },
+            {
+              "LINK_ID": "1020043201",
+              "ROAD_NM": "백범로",
+              "START_ND_CD": "1020037901",
+              "START_ND_NM": "삼각지고가차도(동측)",
+              "START_ND_XY": "126.9729282965810881_37.5360760482562767",
+              "END_ND_CD": "1020025900",
+              "END_ND_NM": "삼각지역9번출구",
+              "END_ND_XY": "126.9732648398461947_37.5359683460905913",
+              "DIST": "32.0",
+              "SPD": "21.0",
+              "IDX": "서행",
+              "XYLIST": "126.9732648398461947_37.5359683460905913|126.9729282965810881_37.5360760482562767"
+            },
+            {
+              "LINK_ID": "1020056901",
+              "ROAD_NM": "한강대로",
+              "START_ND_CD": "1020016804",
+              "START_ND_NM": "전자상가입구교차로",
+              "START_ND_XY": "126.9682403944276103_37.5296494232954956",
+              "END_ND_CD": "1020041504",
+              "END_ND_NM": "용산우체국",
+              "END_ND_XY": "126.9687693600408522_37.5301748910193922",
+              "DIST": "75.0",
+              "SPD": "13.0",
+              "IDX": "정체",
+              "XYLIST": "126.9687693600408522_37.5301748910193922|126.9682403944276103_37.5296494232954956"
+            },
+            {
+              "LINK_ID": "1020057001",
+              "ROAD_NM": "한강대로",
+              "START_ND_CD": "1020041503",
+              "START_ND_NM": "용산우체국",
+              "START_ND_XY": "126.9688709856765172_37.5301100058853052",
+              "END_ND_CD": "1020016801",
+              "END_ND_NM": "전자상가입구교차로",
+              "END_ND_XY": "126.9683459865975124_37.5295827397858162",
+              "DIST": "75.0",
+              "SPD": "15.0",
+              "IDX": "서행",
+              "XYLIST": "126.9683459865975124_37.5295827397858162|126.9688709856765172_37.5301100058853052"
+            },
+            {
+              "LINK_ID": "1020057501",
+              "ROAD_NM": "한강대로",
+              "START_ND_CD": "1020058400",
+              "START_ND_NM": "한강로1가 228-1",
+              "START_ND_XY": "126.9732120555661368_37.5348400238888473",
+              "END_ND_CD": "1020025100",
+              "END_ND_NM": "삼각지역7번출구",
+              "END_ND_XY": "126.9734329393310475_37.5350708801419586",
+              "DIST": "32.0",
+              "SPD": "28.5",
+              "IDX": "원활",
+              "XYLIST": "126.9734329393310475_37.5350708801419586|126.9732120555661368_37.5348400238888473"
+            },
+            {
+              "LINK_ID": "1020057601",
+              "ROAD_NM": "한강대로",
+              "START_ND_CD": "1020071700",
+              "START_ND_NM": "한강로2가 140-1",
+              "START_ND_XY": "126.9691516325622445_37.5304124021685297",
+              "END_ND_CD": "1020041502",
+              "END_ND_NM": "용산우체국",
+              "END_ND_XY": "126.9689326562372713_37.5301754205949933",
+              "DIST": "33.0",
+              "SPD": "39.0",
+              "IDX": "원활",
+              "XYLIST": "126.9689326562372713_37.5301754205949933|126.9691516325622445_37.5304124021685297"
+            }
+          ]
+        },
+        "PRK_STTS": null,
+        "SUB_STTS": {
+          "SUB_STTS": [
+            {
+              "SUB_STN_NM": "삼각지",
+              "SUB_STN_LINE": "4",
+              "SUB_STN_RADDR": "서울특별시 용산구 한강대로 지하180(한강로1가)",
+              "SUB_STN_JIBUN": null,
+              "SUB_STN_X": "126.9726",
+              "SUB_STN_Y": "37.534075",
+              "SUB_DETAIL": null,
+              "SUB_FACIINFO": null
+            },
+            {
+              "SUB_STN_NM": "신용산",
+              "SUB_STN_LINE": "4",
+              "SUB_STN_RADDR": "서울특별시 용산구 한강대로 지하112(한강로2가)",
+              "SUB_STN_JIBUN": null,
+              "SUB_STN_X": "126.967894",
+              "SUB_STN_Y": "37.52917",
+              "SUB_DETAIL": null,
+              "SUB_FACIINFO": null
+            },
+            {
+              "SUB_STN_NM": "삼각지",
+              "SUB_STN_LINE": "6",
+              "SUB_STN_RADDR": "서울특별시 용산구 한강대로 지하185(한강로1가)",
+              "SUB_STN_JIBUN": null,
+              "SUB_STN_X": "126.974032",
+              "SUB_STN_Y": "37.535534",
+              "SUB_DETAIL": null,
+              "SUB_FACIINFO": null
+            }
+          ]
+        },
+        "LIVE_SUB_PPLTN": {
+          "SUB_ACML_GTON_PPLTN_MIN": "6600",
+          "SUB_ACML_GTON_PPLTN_MAX": "6700",
+          "SUB_ACML_GTOFF_PPLTN_MIN": "18300",
+          "SUB_ACML_GTOFF_PPLTN_MAX": "18400",
+          "SUB_30WTHN_GTON_PPLTN_MIN": "650",
+          "SUB_30WTHN_GTON_PPLTN_MAX": "700",
+          "SUB_30WTHN_GTOFF_PPLTN_MIN": "1000",
+          "SUB_30WTHN_GTOFF_PPLTN_MAX": "1100",
+          "SUB_10WTHN_GTON_PPLTN_MIN": "200",
+          "SUB_10WTHN_GTON_PPLTN_MAX": "250",
+          "SUB_10WTHN_GTOFF_PPLTN_MIN": "400",
+          "SUB_10WTHN_GTOFF_PPLTN_MAX": "450",
+          "SUB_5WTHN_GTON_PPLTN_MIN": "100",
+          "SUB_5WTHN_GTON_PPLTN_MAX": "150",
+          "SUB_5WTHN_GTOFF_PPLTN_MIN": "200",
+          "SUB_5WTHN_GTOFF_PPLTN_MAX": "250",
+          "SUB_STN_CNT": "3",
+          "SUB_STN_TIME": "20260703"
+        },
+        "BUS_STN_STTS": {
+          "BUS_STN_STTS": [
+            {
+              "BUS_RESULT_MSG": "정상 호출되었습니다.",
+              "BUS_STN_ID": "102000005",
+              "BUS_ARS_ID": "3005",
+              "BUS_STN_NM": "용산우체국",
+              "BUS_STN_X": "126.9702350163",
+              "BUS_STN_Y": "37.5314970129"
+            },
+            {
+              "BUS_RESULT_MSG": "정상 호출되었습니다.",
+              "BUS_STN_ID": "102000006",
+              "BUS_ARS_ID": "3006",
+              "BUS_STN_NM": "용산우체국",
+              "BUS_STN_X": "126.9705640624",
+              "BUS_STN_Y": "37.5320503694"
+            },
+            {
+              "BUS_RESULT_MSG": "정상 호출되었습니다.",
+              "BUS_STN_ID": "102000007",
+              "BUS_ARS_ID": "3007",
+              "BUS_STN_NM": "삼각지역.전쟁기념관",
+              "BUS_STN_X": "126.9736858311",
+              "BUS_STN_Y": "37.5351801399"
+            },
+            {
+              "BUS_RESULT_MSG": "정상 호출되었습니다.",
+              "BUS_STN_ID": "102000026",
+              "BUS_ARS_ID": "3119",
+              "BUS_STN_NM": "신용산역3번출구",
+              "BUS_STN_X": "126.9673497525",
+              "BUS_STN_Y": "37.5288895698"
+            },
+            {
+              "BUS_RESULT_MSG": "정상 호출되었습니다.",
+              "BUS_STN_ID": "102900012",
+              "BUS_ARS_ID": "3564",
+              "BUS_STN_NM": "용산우체국",
+              "BUS_STN_X": "126.9703153999",
+              "BUS_STN_Y": "37.531376286"
+            }
+          ]
+        },
+        "LIVE_BUS_PPLTN": {
+          "BUS_ACML_GTON_PPLTN_MIN": "1300",
+          "BUS_ACML_GTON_PPLTN_MAX": "1400",
+          "BUS_ACML_GTOFF_PPLTN_MIN": "3000",
+          "BUS_ACML_GTOFF_PPLTN_MAX": "3100",
+          "BUS_30WTHN_GTON_PPLTN_MIN": "80",
+          "BUS_30WTHN_GTON_PPLTN_MAX": "90",
+          "BUS_30WTHN_GTOFF_PPLTN_MIN": "250",
+          "BUS_30WTHN_GTOFF_PPLTN_MAX": "300",
+          "BUS_10WTHN_GTON_PPLTN_MIN": "20",
+          "BUS_10WTHN_GTON_PPLTN_MAX": "30",
+          "BUS_10WTHN_GTOFF_PPLTN_MIN": "80",
+          "BUS_10WTHN_GTOFF_PPLTN_MAX": "90",
+          "BUS_5WTHN_GTON_PPLTN_MIN": "10",
+          "BUS_5WTHN_GTON_PPLTN_MAX": "20",
+          "BUS_5WTHN_GTOFF_PPLTN_MIN": "40",
+          "BUS_5WTHN_GTOFF_PPLTN_MAX": "50",
+          "BUS_STN_CNT": "7",
+          "BUS_STN_TIME": "20260703"
+        },
+        "ACDNT_CNTRL_STTS": null,
+        "SBIKE_STTS": {
+          "SBIKE_STTS": [
+            {
+              "SBIKE_SPOT_NM": "816. 신용산역 6번출구 앞",
+              "SBIKE_SPOT_ID": "ST-435",
+              "SBIKE_SHARED": "76",
+              "SBIKE_PARKING_CNT": "19",
+              "SBIKE_RACK_CNT": "25",
+              "SBIKE_X": "126.96848297",
+              "SBIKE_Y": "37.53014755"
+            },
+            {
+              "SBIKE_SPOT_NM": "817. 삼각지역 4번출구 앞",
+              "SBIKE_SPOT_ID": "ST-436",
+              "SBIKE_SHARED": "67",
+              "SBIKE_PARKING_CNT": "6",
+              "SBIKE_RACK_CNT": "9",
+              "SBIKE_X": "126.97173309",
+              "SBIKE_Y": "37.53345108"
+            }
+          ]
+        },
+        "WEATHER_STTS": {
+          "WEATHER_STTS": {
+            "WEATHER_TIME": "2026-07-03 09:41",
+            "TEMP": "22.5",
+            "MAX_TEMP": "30.0",
+            "MIN_TEMP": "23.0",
+            "HUMIDITY": "91",
+            "WIND_DIRCT": "ENE",
+            "WIND_SPD": "0.9",
+            "PRECIPITATION": "~1mm",
+            "PRECPT_TYPE": "비",
+            "PCP_MSG": "약한 비가 내리고 있어요.외출 시 우산을 챙기세요.",
+            "SUNRISE": "05:15",
+            "SUNSET": "19:57",
+            "UV_INDEX_LVL": "7",
+            "UV_INDEX": "높음",
+            "UV_MSG": "햇볕에 노출 시 1-2시간 이내에도 피부 화상을 입을 수 있어 위험해요.한낮에는 실내나 그늘에 머물러주세요.외출시 긴 소매 옷, 모자, 선글라스를 착용해주세요.자외선 차단제를 정기적으로 발라주세요.",
+            "PM25_INDEX": "보통",
+            "PM25": "17",
+            "PM10_INDEX": "좋음",
+            "PM10": "18",
+            "AIR_IDX": "보통",
+            "AIR_IDX_MVL": "56.0",
+            "AIR_IDX_MAIN": null,
+            "AIR_MSG": "호흡기가 예민하신 분들은 몸상태 유의하며 활동해주세요.",
+            "FCST24HOURS": {
+              "FCST24HOURS": [
+                {
+                  "FCST_DT": "202607031000",
+                  "TEMP": "23",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "60",
+                  "SKY_STTS": "흐림"
+                },
+                {
+                  "FCST_DT": "202607031100",
+                  "TEMP": "25",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "20",
+                  "SKY_STTS": "맑음"
+                },
+                {
+                  "FCST_DT": "202607031200",
+                  "TEMP": "26",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "20",
+                  "SKY_STTS": "구름많음"
+                },
+                {
+                  "FCST_DT": "202607031300",
+                  "TEMP": "28",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "20",
+                  "SKY_STTS": "구름많음"
+                },
+                {
+                  "FCST_DT": "202607031400",
+                  "TEMP": "29",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "60",
+                  "SKY_STTS": "구름많음"
+                },
+                {
+                  "FCST_DT": "202607031500",
+                  "TEMP": "30",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "30",
+                  "SKY_STTS": "흐림"
+                },
+                {
+                  "FCST_DT": "202607031600",
+                  "TEMP": "30",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "30",
+                  "SKY_STTS": "흐림"
+                },
+                {
+                  "FCST_DT": "202607031700",
+                  "TEMP": "29",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "30",
+                  "SKY_STTS": "흐림"
+                },
+                {
+                  "FCST_DT": "202607031800",
+                  "TEMP": "28",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "30",
+                  "SKY_STTS": "흐림"
+                },
+                {
+                  "FCST_DT": "202607031900",
+                  "TEMP": "27",
+                  "PRECIPITATION": "11.0",
+                  "PRECPT_TYPE": "소나기",
+                  "RAIN_CHANCE": "60",
+                  "SKY_STTS": "구름많음"
+                },
+                {
+                  "FCST_DT": "202607032000",
+                  "TEMP": "26",
+                  "PRECIPITATION": "11.0",
+                  "PRECPT_TYPE": "소나기",
+                  "RAIN_CHANCE": "60",
+                  "SKY_STTS": "흐림"
+                },
+                {
+                  "FCST_DT": "202607032100",
+                  "TEMP": "26",
+                  "PRECIPITATION": "13.0",
+                  "PRECPT_TYPE": "소나기",
+                  "RAIN_CHANCE": "60",
+                  "SKY_STTS": "구름많음"
+                },
+                {
+                  "FCST_DT": "202607032200",
+                  "TEMP": "25",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "20",
+                  "SKY_STTS": "구름많음"
+                },
+                {
+                  "FCST_DT": "202607032300",
+                  "TEMP": "25",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "20",
+                  "SKY_STTS": "구름많음"
+                },
+                {
+                  "FCST_DT": "202607040000",
+                  "TEMP": "24",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "30",
+                  "SKY_STTS": "흐림"
+                },
+                {
+                  "FCST_DT": "202607040100",
+                  "TEMP": "24",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "30",
+                  "SKY_STTS": "흐림"
+                },
+                {
+                  "FCST_DT": "202607040200",
+                  "TEMP": "24",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "30",
+                  "SKY_STTS": "흐림"
+                },
+                {
+                  "FCST_DT": "202607040300",
+                  "TEMP": "24",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "20",
+                  "SKY_STTS": "구름많음"
+                },
+                {
+                  "FCST_DT": "202607040400",
+                  "TEMP": "23",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "20",
+                  "SKY_STTS": "구름많음"
+                },
+                {
+                  "FCST_DT": "202607040500",
+                  "TEMP": "23",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "0",
+                  "SKY_STTS": "맑음"
+                },
+                {
+                  "FCST_DT": "202607040600",
+                  "TEMP": "23",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "0",
+                  "SKY_STTS": "맑음"
+                },
+                {
+                  "FCST_DT": "202607040700",
+                  "TEMP": "24",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "0",
+                  "SKY_STTS": "맑음"
+                },
+                {
+                  "FCST_DT": "202607040800",
+                  "TEMP": "25",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "0",
+                  "SKY_STTS": "맑음"
+                },
+                {
+                  "FCST_DT": "202607040900",
+                  "TEMP": "26",
+                  "PRECIPITATION": "-",
+                  "PRECPT_TYPE": "없음",
+                  "RAIN_CHANCE": "0",
+                  "SKY_STTS": "맑음"
+                }
+              ]
+            },
+            "NEWS_LIST": null
+          }
+        },
+        "CHARGER_STTS": {
+          "CHARGER_STTS": [
+            {
+              "STAT_NM": "웰컴저축은행",
+              "STAT_ID": "LU000638",
+              "STAT_ADDR": "서울특별시 용산구 한강대로 148",
+              "STAT_X": "126.97140284",
+              "STAT_Y": "37.532189907",
+              "STAT_USETIME": "24시간 이용가능",
+              "STAT_PARKPAY": "N",
+              "STAT_LIMITYN": "N",
+              "STAT_LIMITDETAIL": "시설 상황에 따라 이용이 제한될 수 있음",
+              "STAT_KINDDETAIL": "사업장(사옥)",
+              "CHARGER_DETAILS": {
+                "CHARGER_DETAILS": {
+                  "CHARGER_ID": "03",
+                  "CHARGER_TYPE": "DC콤보",
+                  "CHARGER_STAT": "점검중",
+                  "STATUPDDT": "2026-06-27 12:33",
+                  "LASTTSDT": "2024-08-07 15:20",
+                  "LASTTEDT": "2024-08-12 11:29",
+                  "NOWTSDT": null,
+                  "OUTPUT": "50",
+                  "METHOD": "단독"
+                }
+              }
+            },
+            {
+              "STAT_NM": "웰컴저축은행",
+              "STAT_ID": "LU000638",
+              "STAT_ADDR": "서울특별시 용산구 한강대로 148",
+              "STAT_X": "126.97140284",
+              "STAT_Y": "37.532189907",
+              "STAT_USETIME": "24시간 이용가능",
+              "STAT_PARKPAY": "N",
+              "STAT_LIMITYN": "Y",
+              "STAT_LIMITDETAIL": "시설 상황에 따라 이용이 제한될 수 있음",
+              "STAT_KINDDETAIL": "사업장(사옥)",
+              "CHARGER_DETAILS": {
+                "CHARGER_DETAILS": {
+                  "CHARGER_ID": "01",
+                  "CHARGER_TYPE": "AC완속",
+                  "CHARGER_STAT": "점검중",
+                  "STATUPDDT": "2026-06-27 12:33",
+                  "LASTTSDT": "2024-07-04 16:05",
+                  "LASTTEDT": "2024-08-12 11:24",
+                  "NOWTSDT": null,
+                  "OUTPUT": "7",
+                  "METHOD": "단독"
+                }
+              }
+            }
+          ]
+        },
+        "EVENT_STTS": null,
+        "LIVE_CMRCL_STTS": {
+          "AREA_CMRCL_LVL": "보통",
+          "AREA_SH_PAYMENT_CNT": "29",
+          "AREA_SH_PAYMENT_AMT_MIN": "600000",
+          "AREA_SH_PAYMENT_AMT_MAX": "650000",
+          "CMRCL_RSB": {
+            "CMRCL_RSB": [
+              {
+                "RSB_LRG_CTGR": "음식·음료",
+                "RSB_MID_CTGR": "한식",
+                "RSB_PAYMENT_LVL": "보통",
+                "RSB_SH_PAYMENT_CNT": "15",
+                "RSB_SH_PAYMENT_AMT_MIN": "450000",
+                "RSB_SH_PAYMENT_AMT_MAX": "500000",
+                "RSB_MCT_CNT": "121",
+                "RSB_MCT_TIME": "202605"
+              },
+              {
+                "RSB_LRG_CTGR": "음식·음료",
+                "RSB_MID_CTGR": "일식/중식/양식",
+                "RSB_PAYMENT_LVL": "한산한",
+                "RSB_SH_PAYMENT_CNT": "4",
+                "RSB_SH_PAYMENT_AMT_MIN": "50000",
+                "RSB_SH_PAYMENT_AMT_MAX": "60000",
+                "RSB_MCT_CNT": "78",
+                "RSB_MCT_TIME": "202605"
+              },
+              {
+                "RSB_LRG_CTGR": "음식·음료",
+                "RSB_MID_CTGR": "기타요식",
+                "RSB_PAYMENT_LVL": "한산한",
+                "RSB_SH_PAYMENT_CNT": "5",
+                "RSB_SH_PAYMENT_AMT_MIN": "100000",
+                "RSB_SH_PAYMENT_AMT_MAX": "150000",
+                "RSB_MCT_CNT": "70",
+                "RSB_MCT_TIME": "202605"
+              },
+              {
+                "RSB_LRG_CTGR": "유통",
+                "RSB_MID_CTGR": "편의점",
+                "RSB_PAYMENT_LVL": "한산한",
+                "RSB_SH_PAYMENT_CNT": "5",
+                "RSB_SH_PAYMENT_AMT_MIN": "10000",
+                "RSB_SH_PAYMENT_AMT_MAX": "20000",
+                "RSB_MCT_CNT": "6",
+                "RSB_MCT_TIME": "202605"
+              }
+            ]
+          },
+          "CMRCL_MALE_RATE": "69.1",
+          "CMRCL_FEMALE_RATE": "30.9",
+          "CMRCL_10_RATE": "0.0",
+          "CMRCL_20_RATE": "15.7",
+          "CMRCL_30_RATE": "25.4",
+          "CMRCL_40_RATE": "42.7",
+          "CMRCL_50_RATE": "15.3",
+          "CMRCL_60_RATE": "1.0",
+          "CMRCL_PERSONAL_RATE": "79.3",
+          "CMRCL_CORPORATION_RATE": "20.7",
+          "CMRCL_TIME": "20260703 1150"
+        },
+        "LIVE_DST_MESSAGE": null,
+        "LIVE_YNA_NEWS": {
+          "LIVE_YNA_NEWS": {
+            "YNA_STEP_NM": "서울시",
+            "YNA_TTL": "서울AI재단-형사법무정책연구원, 안전한 AI 활용 문화 확산 맞손",
+            "YNA_CN": "서울AI재단-형사법무정책연구원, 안전한 AI 활용 문화 확산 맞손    (서울=연합뉴스) 김준태 기자 = 서울AI재단은 지난달 29일 한국형사법무정책연구원과 안전한 인공지능(AI) 활용을 위한 협약을 체결했다고 3일 밝혔다.    협약에 따라 양 기관은 AI 안전분야 정책연구 공동과제를 발굴하고, 안전한 AI 활용법 홍보에 나선다.    재단의 AI 정책 실행 경험과 연구원의 형사·법무 정책 연구 역량을 연계해 시민들이 안심하고 AI를 활용하는 문화를 확산한다는 구상이다.    정웅석 한국형사법무정책연구원장은 \"AI가 사회 전반으로 확산하는 지금은 법적 안정성, 책임성, 시민 보호 원칙을 함께 정립해야 하는 중요한 시기\"라며 \"재단과 AI 안전 분야 정책연구를 내실 있게 추진하겠다\"고 말했다.    김만기 서울AI재단 이사장은 \"AI가 행정과 시민 일상 전반의 혁신을 이끄는 만큼 안전한 활용 체계를 마련하는 일이 중요하다\"며 \"시민이 안심하고 AI를 활용할 수 있는 'AI 도시 서울' 실현에 기여하겠다\"고 전했다.    readiness@yna.co.kr(끝)",
+            "YNA_YMD": "2026-07-03 11:15:04",
+            "YNA_WRTR_NM": "연합뉴스"
+          }
+        }
+      }
+    }
+  },
+  {
+    "poi_code": "POI077",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI078",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI079",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI080",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI081",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI082",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI083",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI084",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI085",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI086",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI087",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI088",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI089",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI090",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI091",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI092",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI093",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI094",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI095",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI096",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI097",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI098",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI099",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI100",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI101",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI102",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI103",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI104",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI105",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI106",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI107",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI108",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI109",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI110",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI111",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI112",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI113",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI114",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI115",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI116",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI117",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI118",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI119",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI120",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  },
+  {
+    "poi_code": "POI121",
+    "collected_at": "2026-07-03 12:03:08",
+    "status": "error",
+    "error": "CITYDATA 없음",
+    "data": {
+      "CITYDATA": null
+    }
+  }
+]
